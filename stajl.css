@@ -19,6 +19,7 @@ body{
     background-size: cover;
     background-position: center; 
     background-attachment: fixed;
+    overflow-x:hidden;
 }
 
 .mb{margin-bottom: 20px;}
@@ -62,7 +63,7 @@ h1{font-size:110px;}
 {
     #slikaa{width:50%;}
     p{
-        font-size: 8px;
+        font-size: 8.5px;
     }
     h1{
         font-size: 40px;
